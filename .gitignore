@@ -1,0 +1,15 @@
+analysis_materials/
+output/
+tmp/
+
+.pytest_cache/
+*.egg-info/
+
+code_snapshot/__pycache__/
+code_snapshot/*/__pycache__/
+code_snapshot/**/*.pyc
+code_snapshot/**/*.pyo
+code_snapshot/runs/
+code_snapshot/repair_and_resume.log
+code_snapshot/repair_and_resume.pid
+code_snapshot/start.lock
